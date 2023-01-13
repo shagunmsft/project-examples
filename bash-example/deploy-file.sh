@@ -1,4 +1,4 @@
- #!/bin/bash
+  #!/bin/bash
 
 usage() {
     echo "Deploy a local file to Artifactory keeping the same file name"
